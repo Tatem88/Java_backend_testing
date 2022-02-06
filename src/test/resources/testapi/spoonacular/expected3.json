@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": 654119,
+      "title": "Orzo Salad With Vegetables and Herbs",
+      "image": "https://spoonacular.com/recipeImages/654119-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645512,
+      "title": "Green Salad with Bacon and Peaches",
+      "image": "https://spoonacular.com/recipeImages/645512-312x231.png",
+      "imageType": "png"
+    },
+    {
+      "id": 642601,
+      "title": "Farro Salad With Tomatoes, Cucumber, Mint and Feta",
+      "image": "https://spoonacular.com/recipeImages/642601-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 653949,
+      "title": "Orange Salad With Pomegranates",
+      "image": "https://spoonacular.com/recipeImages/653949-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645348,
+      "title": "Greek Side Salad",
+      "image": "https://spoonacular.com/recipeImages/645348-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 1005368,
+      "title": "Panzanella Salad",
+      "image": "https://spoonacular.com/recipeImages/1005368-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645265,
+      "title": "Great Greek Salad",
+      "image": "https://spoonacular.com/recipeImages/645265-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 662632,
+      "title": "Sweet Summer Salad",
+      "image": "https://spoonacular.com/recipeImages/662632-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 663149,
+      "title": "Thai Sausage Salad",
+      "image": "https://spoonacular.com/recipeImages/663149-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 643528,
+      "title": "Fresh Lentil Salad",
+      "image": "https://spoonacular.com/recipeImages/643528-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 42
+}

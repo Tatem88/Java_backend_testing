@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": 654835,
+      "title": "Pasta e Fagioli (Pasta and Beans)",
+      "image": "https://spoonacular.com/recipeImages/654835-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 654935,
+      "title": "Pasta with Peas and Italian Sausage",
+      "image": "https://spoonacular.com/recipeImages/654935-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 648190,
+      "title": "Italian Pasta Salad with organic Arugula",
+      "image": "https://spoonacular.com/recipeImages/648190-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 638236,
+      "title": "Chicken Pasta Primavera - Flower Patch Farmgirl Style",
+      "image": "https://spoonacular.com/recipeImages/638236-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 650654,
+      "title": "Make Olive Garden’s Delicious Pasta Fagioli At Home",
+      "image": "https://spoonacular.com/recipeImages/650654-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 633883,
+      "title": "Baked Ziti Casserole",
+      "image": "https://spoonacular.com/recipeImages/633883-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 633752,
+      "title": "Baked Ravioli & Meat Sauce",
+      "image": "https://spoonacular.com/recipeImages/633752-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 1697599,
+      "title": "Baked Ziti with Ricotta and Italian Sausage",
+      "image": "https://spoonacular.com/recipeImages/1697599-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 651965,
+      "title": "Mini Meatball & Ravioli Soup With Garlic Croutons",
+      "image": "https://spoonacular.com/recipeImages/651965-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 650045,
+      "title": "Lightened Ricotta Stuffed Shells With Italian Sausage Ragu",
+      "image": "https://spoonacular.com/recipeImages/650045-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 10
+}
