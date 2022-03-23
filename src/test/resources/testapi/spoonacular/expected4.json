@@ -27,7 +27,9 @@
       "image": "https://spoonacular.com/recipeImages/655055-312x231.jpg",
       "imageType": "jpg",
       "summary": "Pea Soup With Smoked Pork Ribs might be just the main course you are searching for. This recipe serves 4 and costs $4.46 per serving. One serving contains <b>708 calories</b>, <b>58g of protein</b>, and <b>39g of fat</b>. It is perfect for <b>Autumn</b>. From preparation to the plate, this recipe takes around <b>45 minutes</b>. 1 person has made this recipe and would make it again. If you have carrot, bay leaves, onion, and a few other ingredients on hand, you can make it. To use up the caraway seeds you could follow this main course with the <a href=\"https://spoonacular.com/recipes/caraway-scones-449175\">Caraway Scones</a> as a dessert. It is a good option if you're following a <b>gluten free and dairy free</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%</b>. This score is great. Try <a href=\"https://spoonacular.com/recipes/smoked-pork-ribs-340514\">Smoked Pork Ribs</a>, <a href=\"https://spoonacular.com/recipes/smoked-pork-ribs-414447\">Smoked Pork Ribs</a>, and <a href=\"https://spoonacular.com/recipes/sweet-smoked-pork-ribs-470847\">Sweet Smoked Pork Ribs</a> for similar recipes.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "soup"
       ],
@@ -60,7 +62,9 @@
                   "image": "ribs.png"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 2,
@@ -91,7 +95,9 @@
                   "image": "peas.jpg"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 60,
                 "unit": "minutes"
@@ -126,7 +132,9 @@
                   "image": "potatoes-yukon-gold.png"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 15,
                 "unit": "minutes"
@@ -165,8 +173,8 @@
       "imageType": "jpg",
       "summary": "Miso Soup With Thin Noodles is a soup that serves 8. For <b>$1.01 per serving</b>, this recipe <b>covers 17%</b> of your daily requirements of vitamins and minerals. One serving contains <b>114 calories</b>, <b>5g of protein</b>, and <b>2g of fat</b>. It is brought to you by Foodista. It is a good option if you're following a <b>dairy free, lacto ovo vegetarian, and vegan</b> diet. Head to the store and pick up pepper flakes-taste as you go to adjust flavors, parsnip, ginger, and a few other things to make it today. Not a lot of people made this recipe, and 1 would say it hit the spot. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. From preparation to the plate, this recipe takes roughly <b>roughly 45 minutes</b>. This recipe is typical of Japanese cuisine. Overall, this recipe earns an <b>awesome spoonacular score of 89%</b>. Similar recipes include <a href=\"https://spoonacular.com/recipes/a-quick-and-easy-soup-miso-soup-with-soba-noodles-or-mung-bean-31003\">A Quick And Easy Soup {miso Soup With Soba Noodles Or Mung Bean</a>, <a href=\"https://spoonacular.com/recipes/cold-miso-sesame-noodles-991641\">Cold Miso-Sesame Noodles</a>, and <a href=\"https://spoonacular.com/recipes/soba-noodles-with-miso-broth-37466\">Soba Noodles with Miso Broth</a>.",
       "cuisines": [
-        "Japanese",
-        "Asian"
+        "Asian",
+        "Japanese"
       ],
       "dishTypes": [
         "soup"
@@ -285,7 +293,9 @@
                   "image": "tofu.png"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 10,
                 "unit": "minutes"
@@ -334,13 +344,19 @@
                   "image": ""
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 5,
               "step": "Seriously Soupy Serena",
-              "ingredients": [],
-              "equipment": []
+              "ingredients": [
+
+              ],
+              "equipment": [
+
+              ]
             }
           ]
         }
@@ -360,7 +376,7 @@
       "gaps": "no",
       "lowFodmap": false,
       "aggregateLikes": 3,
-      "spoonacularScore": 48.0,
+      "spoonacularScore": 49.0,
       "healthScore": 10.0,
       "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
       "license": "CC BY 3.0",
@@ -528,7 +544,9 @@
       "image": "https://spoonacular.com/recipeImages/633194-312x231.jpg",
       "imageType": "jpg",
       "summary": "You can never have too many soup recipes, so give Azteca Soup a try. One serving contains <b>337 calories</b>, <b>6g of protein</b>, and <b>19g of fat</b>. This recipe serves 6 and costs $1.82 per serving. Not a lot of people made this recipe, and 1 would say it hit the spot. It will be a hit at your <b>Autumn</b> event. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. A mixture of jalapeno pepper, cumin, basil shreds, and a handful of other ingredients are all it takes to make this recipe so yummy. It is a good option if you're following a <b>gluten free and vegetarian</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 51%</b>. This score is solid. Try <a href=\"https://spoonacular.com/recipes/azteca-soup-adopted-101942\">Azteca Soup Adopted</a>, <a href=\"https://spoonacular.com/recipes/azteca-155294\">Azteca</a>, and <a href=\"https://spoonacular.com/recipes/mexican-style-meat-and-vegetable-stew-aztecas-molcajete-101934\">Mexican Style Meat and Vegetable Stew - Azteca's Molcajete</a> for similar recipes.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "soup"
       ],
@@ -615,7 +633,9 @@
                   "image": "ground-cumin.jpg"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 10,
                 "unit": "minutes"
@@ -702,8 +722,12 @@
             {
               "number": 4,
               "step": "Serve immediately.",
-              "ingredients": [],
-              "equipment": []
+              "ingredients": [
+
+              ],
+              "equipment": [
+
+              ]
             },
             {
               "number": 5,
@@ -716,7 +740,9 @@
                   "image": ""
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             }
           ]
         }
@@ -750,7 +776,9 @@
       "image": "https://spoonacular.com/recipeImages/649933-312x231.jpg",
       "imageType": "jpg",
       "summary": "Lentil Soup with Chorizo is a <b>gluten free and dairy free</b> main course. One serving contains <b>555 calories</b>, <b>33g of protein</b>, and <b>27g of fat</b>. This recipe serves 4 and costs $2.12 per serving. It is perfect for <b>Autumn</b>. 1 person were impressed by this recipe. If you have pepper, chorizo into cubes, thyme leaves, and a few other ingredients on hand, you can make it. To use up the salt you could follow this main course with the <a href=\"https://spoonacular.com/recipes/apple-turnovers-recipe-48175\">Apple Turnovers Recipe</a> as a dessert. From preparation to the plate, this recipe takes about <b>30 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 81%</b>. This score is excellent. Try <a href=\"https://spoonacular.com/recipes/white-lentil-soup-with-chorizo-and-paprika-cream-soupe-aux-lentilles-blondes-avec-chorizo-et-crme-au-paprika-34076\">White lentil soup with chorizo and paprika cream — Soupe aux lentilles blondes avec chorizo et crème au paprika</a>, <a href=\"https://spoonacular.com/recipes/red-lentil-chorizo-soup-211798\">Red lentil & chorizo soup</a>, and <a href=\"https://spoonacular.com/recipes/chorizo-and-lentil-soup-246649\">Chorizo and Lentil Soup</a> for similar recipes.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "soup"
       ],
@@ -809,7 +837,9 @@
                   "image": "chorizo.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 3,
@@ -846,7 +876,9 @@
                   "image": "thyme.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 4,
@@ -883,7 +915,9 @@
                   "image": ""
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 20,
                 "unit": "minutes"
@@ -921,7 +955,9 @@
       "image": "https://spoonacular.com/recipeImages/663637-312x231.jpg",
       "imageType": "jpg",
       "summary": "Tomato soup with dumplings is a <b>dairy free</b> soup. One serving contains <b>140 calories</b>, <b>5g of protein</b>, and <b>1g of fat</b>. For <b>62 cents per serving</b>, this recipe <b>covers 17%</b> of your daily requirements of vitamins and minerals. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. This recipe from Foodista has 1 fans. Head to the store and pick up wheat semolina, eggs, few spoons of oil, and a few other things to make it today. From preparation to the plate, this recipe takes about <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 77%</b>. This score is good. Try <a href=\"https://spoonacular.com/recipes/tomato-soup-with-herb-dumplings-393283\">Tomato Soup With Herb Dumplings</a>, <a href=\"https://spoonacular.com/recipes/roast-tomato-soup-with-pumpkin-dumplings-26985\">Roast Tomato Soup With Pumpkin Dumplings</a>, and <a href=\"https://spoonacular.com/recipes/tomato-dumplings-367480\">Tomato Dumplings</a> for similar recipes.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "soup"
       ],
@@ -1040,7 +1076,9 @@
                   "image": "vegetable-oil.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 3,
@@ -1065,7 +1103,9 @@
                   "image": ""
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             }
           ]
         }
@@ -1099,7 +1139,9 @@
       "image": "https://spoonacular.com/recipeImages/649937-312x231.jpg",
       "imageType": "jpg",
       "summary": "Lentil Soup with Smoked Turkey might be just the main course you are searching for. This recipe makes 10 servings with <b>376 calories</b>, <b>27g of protein</b>, and <b>12g of fat</b> each. For <b>$1.23 per serving</b>, this recipe <b>covers 27%</b> of your daily requirements of vitamins and minerals. 1 person has made this recipe and would make it again. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Head to the store and pick up water, onion, diestel turkey thighs, and a few other things to make it today. All things considered, we decided this recipe <b>deserves a spoonacular score of 85%</b>. This score is awesome. Try <a href=\"https://spoonacular.com/recipes/lentil-soup-with-smoked-turkey-34100\">Lentil Soup with Smoked Turkey</a>, <a href=\"https://spoonacular.com/recipes/smoked-turkey-lentil-soup-202267\">Smoked Turkey-Lentil Soup</a>, and <a href=\"https://spoonacular.com/recipes/smoked-turkey-and-lentil-vegetable-soup-167828\">Smoked Turkey and Lentil Vegetable Soup</a> for similar recipes.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "soup"
       ],
@@ -1157,7 +1199,9 @@
                   "image": "brown-onion.png"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 4,
                 "unit": "minutes"
@@ -1174,7 +1218,9 @@
                   "image": "sliced-carrot.png"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 4,
@@ -1205,7 +1251,9 @@
                   "image": "whole-chicken.jpg"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 3,
                 "unit": "minutes"
@@ -1339,7 +1387,9 @@
       "image": "https://spoonacular.com/recipeImages/649936-312x231.jpg",
       "imageType": "jpg",
       "summary": "Lentil Soup with Veggies and Pasta requires roughly <b>approximately 45 minutes</b> from start to finish. This recipe serves 8 and costs 69 cents per serving. This main course has <b>403 calories</b>, <b>16g of protein</b>, and <b>11g of fat</b> per serving. 1 person were glad they tried this recipe. It will be a hit at your <b>Autumn</b> event. This recipe from Foodista requires romano cheese, fettuccine broken into pieces, parsley, and cream of celery soup. All things considered, we decided this recipe <b>deserves a spoonacular score of 56%</b>. This score is pretty good. Similar recipes include <a href=\"https://spoonacular.com/recipes/lentil-soup-with-veggies-and-pasta-34067\">Lentil Soup With Veggies And Pasta</a>, <a href=\"https://spoonacular.com/recipes/lentil-soup-with-pasta-33947\">Lentil Soup With Pasta</a>, and <a href=\"https://spoonacular.com/recipes/veggies-with-green-lentil-582343\">Veggies With Green Lentil</a>.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "lunch",
         "soup",
@@ -1347,7 +1397,9 @@
         "main dish",
         "dinner"
       ],
-      "diets": [],
+      "diets": [
+
+      ],
       "occasions": [
         "fall",
         "winter"
@@ -1515,7 +1567,9 @@
                   "image": ""
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 5,
@@ -1534,7 +1588,9 @@
                   "image": "fusilli.jpg"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 15,
                 "unit": "minutes"
@@ -1625,7 +1681,9 @@
                   "image": ""
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 8,
@@ -1679,7 +1737,9 @@
       "image": "https://spoonacular.com/recipeImages/657000-312x231.jpg",
       "imageType": "jpg",
       "summary": "If you have roughly <b>roughly 45 minutes</b> to spend in the kitchen, Potato Soup With Peppers and Olives might be an excellent <b>gluten free, dairy free, lacto ovo vegetarian, and whole 30</b> recipe to try. This soup has <b>96 calories</b>, <b>2g of protein</b>, and <b>5g of fat</b> per serving. This recipe serves 4 and costs 34 cents per serving. This recipe from Foodista has 3 fans. A mixture of salt and pepper, garlic, roasted and marinated peppers, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is perfect for <b>Autumn</b>. With a spoonacular <b>score of 55%</b>, this dish is good. Similar recipes include <a href=\"https://spoonacular.com/recipes/potato-salad-with-olives-and-peppers-186956\">Potato Salad with Olives and Peppers</a>, <a href=\"https://spoonacular.com/recipes/potato-salad-with-olives-and-peppers-107025\">Potato Salad With Olives and Peppers</a>, and <a href=\"https://spoonacular.com/recipes/baked-olives-and-peppers-633687\">Baked Olives and Peppers</a>.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "soup"
       ],
@@ -1746,7 +1806,9 @@
                   "image": "salt.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 3,
@@ -1765,7 +1827,9 @@
                   "image": "water.png"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 30,
                 "unit": "minutes"
@@ -1868,7 +1932,9 @@
                   "image": "salt.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 7,
@@ -1881,7 +1947,9 @@
                   "image": "olives-mixed.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             }
           ]
         }
@@ -1915,7 +1983,9 @@
       "image": "https://spoonacular.com/recipeImages/657003-312x231.jpg",
       "imageType": "jpg",
       "summary": "Potato Soup with Sun Dried Tomato and Ham might be just the soup you are searching for. This recipe serves 8 and costs $1.23 per serving. Watching your figure? This gluten free recipe has <b>176 calories</b>, <b>8g of protein</b>, and <b>9g of fat</b> per serving. Only a few people made this recipe, and 1 would say it hit the spot. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. <b>Autumn</b> will be even more special with this recipe. It is brought to you by Foodista. A mixture of extra turkey ham, vegetable broth, thyme, and a handful of other ingredients are all it takes to make this recipe so yummy. Taking all factors into account, this recipe <b>earns a spoonacular score of 39%</b>, which is rather bad. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/potato-soup-with-sun-dried-tomato-and-ham-530994\">Potato Soup with Sun Dried Tomato and Ham</a>, <a href=\"https://spoonacular.com/recipes/turkey-ham-sun-dried-tomato-sub-280654\">Turkey, Ham & Sun-Dried Tomato Sub</a>, and <a href=\"https://spoonacular.com/recipes/ham-cheese-sun-dried-tomato-omelet-270529\">Ham, Cheese & Sun-Dried Tomato Omelet</a>.",
-      "cuisines": [],
+      "cuisines": [
+
+      ],
       "dishTypes": [
         "soup"
       ],
@@ -1973,7 +2043,9 @@
                   "image": "brown-onion.png"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 5,
                 "unit": "minutes"
@@ -2020,7 +2092,9 @@
                   "image": "thyme.jpg"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 20,
                 "unit": "minutes"
@@ -2055,7 +2129,9 @@
                   "image": "potatoes-yukon-gold.png"
                 }
               ],
-              "equipment": [],
+              "equipment": [
+
+              ],
               "length": {
                 "number": 5,
                 "unit": "minutes"
@@ -2098,7 +2174,9 @@
                   "image": "ham-whole.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             },
             {
               "number": 7,
@@ -2117,7 +2195,9 @@
                   "image": "parsley.jpg"
                 }
               ],
-              "equipment": []
+              "equipment": [
+
+              ]
             }
           ]
         }
